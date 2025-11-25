@@ -1,2 +1,1 @@
-# deep-learning
-Neural Networks and Deep Learning
+# Free AI at api.airforce
